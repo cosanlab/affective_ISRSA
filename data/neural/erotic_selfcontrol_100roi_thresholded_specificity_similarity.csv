@@ -1,0 +1,9 @@
+Topic Number,Topic Label,Classification,topic,Label,Include_erotic,Include_erotic_r2,Include_erotic_r3,Pexp,New_sort
+17,social,Include,topic16,Social,Include,Include,Include,-0.046427508,1
+31,social_judgment,Exclude,topic30,Social judgment,Include,Include,Include,0.029797767,2
+32,reward,Include,topic31,Reward,Include,Include,Include,0.053008093,3
+80,emotion,Include,topic79,Emotion,Include,Include,Include,0.101577113,4
+26,executive_control,Include,topic25,Executive control,Include,Include,Include,0.136269606,5
+58,cognitive_control,Exclude,topic57,Cognitive control,Include,Include,Include,0.04164967,6
+64,error_monitoring,Exclude,topic63,Error monitoring,Include,Include,Include,0.069717933,7
+39,conflict,Include,topic38,Conflict,Include,Include,Include,0.078385536,8
